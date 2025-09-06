@@ -1,0 +1,20 @@
+Title: dē hōc diariō
+Date: 2022-08-12
+Category: dē hōc diāriō
+Tags: 
+Slug: dē hōc diāriō
+Authors: Caela Calculensis
+Summary: quō hujus diāriī cōnsilium scrībō
+
+<img align=right src="images/pipiatrix.jpg" width=150/>
+
+Salvē! Vulgō «Kayla Lewis» mihi nōmen est. Ad negōtium meum, aliīs suadeō dē quō modō optimē jūdicia sua fierī possint (apud [hunc locum](https://www.thedecisionblog.com)). Hōc in sitū vāria scrībō quae ad hoc argumentum et multa alia pertinent: fābulās fictās, dē vītā meā, commentātiōnes dē physicā aliīsve scientiīs: nē multa, dē omnibus quae mē dēlectant! 
+
+Sī quid inveniēs hās in pāginās ūtilē aut operam hujus diāriī sustinēre velīs, dōnāre potes apud PayPal meum [@Calculensis](https://www.paypal.com/paypalme/Calculensis)
+
+Etiam mē sequī potes apud Pīpiātōrium [@Calculensis](https://twitter.com/Calculensis).
+
+Habēsne quaestiōnēs? Litterās hīc mitte:
+
+[kaylalewis@noctuaminervae.com](mailto:kaylalewis@noctuaminervae.com)
+

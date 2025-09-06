@@ -1,0 +1,33 @@
+Title: pila Aeolī
+Date: 2022-07-11
+Category: fābulae
+Tags: 
+Slug: pila Aeolī
+Authors: Caela Calculensis
+Summary: dē Aeolī pilō
+
+<img align=right src="images/pila.jpg" width="200"/>
+
+Crepusculum erat et āēr ex harēnīs calidīs ad caelum adhūc ascendēbat. Plūrēs iam intus erant quia nūper hominēs noctibus abreptī fuissent. Rēja Valēns, fēmina flammicomantibus comīs viridibusque oculīs, per septimānās jam causam invenīre temptāverat, et omnia indicia pȳramidem monstrābant.
+
+Rēja popīnam ambulābat sed nōn ad cēnandum: Juxtā popīnam erat mēnsa lignea cum arcā magnā aēneāque suprā eam. In apice arcae incīsūra erat fundōque forāmen. Rēja lagunculam in forāmine posuit et nummum in incīsūram dēmīsit. Aliquid intrā arcā sonitōs mēchanicōs fēcit et aquam sacram in lagunculam effundēbat. Prīmā lagunculā plēnā, Rēja aliam implēvit. Fēlēs nigra pedem suum lambēns prope mēnsam sedēbat, cui Rēja subrīdēns dīxit “Haec sunt perūtilia!”
+
+Pȳramidem iam īvit copide armāta. Forīs apud aditum fax in pariete incendēns erat, quam Rēja cēpit. Deinde in terram dēscendit. Jam in fundō scālae longae ante ingēns conclāve substiterat, nam solum omnīnō tēctum anguibus venēnātīs erat. Rēja ā coxā sacculum sustulit, quī herbam quandam[^1] continēbat. Herbam ante sē spargere incēpit et ecce: Serpentēs herbam fūgērunt quasī ignis esset. Hōc modō Rēja mare anguium dīvīsit et in iter subterrāneum perrēxit.
+
+Rēja cum vēnisset ad bivium subitō ā viā laevā gemitūs sonitōsque titubandī audīvit. Circā angulum mumia appāruit et, cum Rējam vīderit, strīdēre coepit statimque Rējam petīvit. Ea lagunculam aquae sacrae in mumiam jēcit, quae contrā pectus eius confrēgit. Mumia ululāvit et gradum retrō fēcit cum fūmī ā fasciīs ascenderent. Rējae tamen vīsum est tantum īrātiōrem sē mumiam confēcisse, quamobrem in viam dextram circum alium angulum fūgit.
+
+Aut melius dictum fugere finxerat, nam post angulum Rēja copidem suam strīnxit et mumiam expectābat; cum in sequendō rūrsus apud eam appāruit, gladiō suō monstrum percussit. Jam pectus ejus cavum habēbat et fasciae scissae ē mumiā pendēbant, sed continuē ad virāginem titubābat. Deinde Rēja fūgit rē vērā, per andrōnem in tenebrīs altīs tendēntem. Post multum currendī ea ad aliud bivium pervēnit et viam sinistram ēlēgit, spērāns nē mumia eandem ēlēgerit.
+
+Nōn multum post tempus haec via Rējam in parvum conclāve obscūrum dūxit. In mediō conclāvis columna saxea stābat et apud eam māchina, quam Rēja per nōmen “Pila Aeolī” agnōvit[^2], in quā aēneum clausum aquā replētum et sphaera ex eādem māteriā factā fistulīs coniungēbantur. Sub illā māchinā labrum oleō plēnum erat. Cūr māchina hīc esset Rēja nescīvit sed, consiliō in animō, oleum in labrō face tetigit quod statim in flammīs ērūpit. Post paulum temporis sphaera metallica fūriōsē volvere incēpit magnōque strepitū, et paene simul Rēja gemitūs familiārēs ex andrōne audīvit. Rēja post columnam stābat cadāverque animātum expectābat.
+
+Mumia in conclāve intrāvit versusque columnam lentē ambulāvit. Per tōtum tempus Rēja circum columnam movēbat ut ē conspectū eius manēret. Cautē Rēja ā tergō columnae spectābat et in solō fasciam longam vīdī post mumiam tractam. Quam celerrimē fasciam cēpit et in Pilam Aeolī injēcit. Fasciā ā parte māchinae vertentī captā, mumia repente ad automaton revolsa et bis in circulō versa fuit. Jam magna pectoris pars exposita erat.
+
+Foeda carō rūgōsa visibilis erat et odor taeter conclāve implēvit. Opportūnē Rēja in pectus mumiae ultimam lagunculam iniēcit, quae scīlicet sīcut prīmam confrēgit. Sed hōc tempore, fascīs absentibus, fūmī scatūriēbant et mumia ululāns corporeque quatientī in solum cecidit; nōn multum post movēre dēsiit tantumque sonitus Pilae Aeolī audiēbātur.
+
+Cum ēmersisset Rēja tandem ē pȳramide eandem nigram fēlem ē popīnā vīdit. Hāc comite ad illum locum revēnit et cervisiam bibit. Sīc Rēja Valēns aliō diē vīvat ut aliās umbrās aemulētur.[^3]
+
+[^1]: Orīganum Dictamnus appellātur.
+[^2]: Hērōn Alexandrīnus hanc māchinam invēnit. "Aeolipyle" vel "Pila Aeolī" vocābātur. Aeolus deus ventōrum est.
+[^3]: Aemulārī umbrās = contrā umbrās pugnāre
+
+[dissere apud Pīpiātōrium](https://twitter.com/Calculensis/status/1558153345470287875?s=20&t=vKyJYyu6jnD4DhGQgm3_ew)
