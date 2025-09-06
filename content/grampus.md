@@ -24,4 +24,3 @@ Decebal attonitus vōcem rogāvit “Quis es tū?” At cui vōx fēminae “Nō
 [^4]: Chaos (chaī -n) contra ordinem est.
 [^5]: "Arrrr!" est sonitus, quem pīrātae facere solent.
 
-[dissere apud Pīpiātōrium](https://twitter.com/Calculensis/status/1558153345470287875?s=20&t=vKyJYyu6jnD4DhGQgm3_ew)

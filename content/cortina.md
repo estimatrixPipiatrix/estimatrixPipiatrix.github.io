@@ -26,4 +26,3 @@ Quōdam diē posteā, puella piscēs venēnātōs cicōniae obtulit et hōc mod�
 
 Intereā alicubi Orcī, Plūtō Proserpinae: “Corculum meum, ubi est illud amulētum? Movistīne id rūrsus?”
 
-[dissere apud Pīpiātōrium](https://twitter.com/Calculensis/status/1558153345470287875?s=20&t=vKyJYyu6jnD4DhGQgm3_ew)

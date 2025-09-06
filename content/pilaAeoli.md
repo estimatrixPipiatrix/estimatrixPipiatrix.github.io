@@ -30,4 +30,3 @@ Cum ēmersisset Rēja tandem ē pȳramide eandem nigram fēlem ē popīnā vīdi
 [^2]: Hērōn Alexandrīnus hanc māchinam invēnit. "Aeolipyle" vel "Pila Aeolī" vocābātur. Aeolus deus ventōrum est.
 [^3]: Aemulārī umbrās = contrā umbrās pugnāre
 
-[dissere apud Pīpiātōrium](https://twitter.com/Calculensis/status/1558153345470287875?s=20&t=vKyJYyu6jnD4DhGQgm3_ew)

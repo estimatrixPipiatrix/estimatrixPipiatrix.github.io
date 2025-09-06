@@ -14,4 +14,3 @@ Sed cur linguam Latīnam ut discerem ēlēgī? Prīmum, quia Lūcium Raniērium 
 
 Haec causa discendī postrēma ad quamque linguam pertinēre potest, sed ita reputābam:  quō dīversa illa lingua esset, eō magis velut aliēnī cōgitātiōnēs meae forent! Idem multīs angulīs vidēre potestātem cōgitandī nostram magnopere augēre potest.
 
-[dissere apud Pīpiātōrium](https://twitter.com/Calculensis/status/1558153345470287875?s=20&t=vKyJYyu6jnD4DhGQgm3_ew)

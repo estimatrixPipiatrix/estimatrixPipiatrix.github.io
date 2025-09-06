@@ -20,4 +20,3 @@ Hōc in prōcessū necesse est quodque argūmentum vidēre, nōn sōlum ex locō
 
 Tandem, ex omnibus quae didicimus ūnum cōnsilium cōnstruere temptāmus quod optima ex priōribus sententiīs capit.
 
-[dissere apud Pīpiātōrium](https://twitter.com/Calculensis/status/1558153345470287875?s=20&t=vKyJYyu6jnD4DhGQgm3_ew)

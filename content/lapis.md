@@ -18,4 +18,3 @@ Per nonnūllōs diēs clangor malleī ē domū Aurēliae oriēbātur. Tandem, s�
 
 Aurēlia “Ad Orcum ī,” inquit, “capillōsque aliquōs Cerberī hīc addūce!” Automaton per tam longum temporis aberat ut Aurēliam putāre coeperet id numquam reventūrum esse, sed aliquō diē sonitum metallicum apud ostium audīvit. Ostium aperuit ea vīditque virum mēchanicum vestīgiīs dentium opertum ūnōque bracchiō absentī. Prīmō Aurēliae vidētur automaton in pensō suō dēfēcisse sed, scīlicet, capillī canis omnibus adhaerent, etiam automatīs.
 
-[dissere apud Pīpiātōrium](https://twitter.com/Calculensis/status/1558153345470287875?s=20&t=vKyJYyu6jnD4DhGQgm3_ew)

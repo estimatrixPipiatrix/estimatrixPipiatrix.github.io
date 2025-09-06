@@ -16,4 +16,3 @@ Plūrimās post diēs multumque expressārum, ad fīnem librī Carolīna pervēn
 
 Quamquam hae cōgitātiōnēs obstābant, Carolīna sententiam clārē legēbat posteāque scīvit tandem quae quālisque esset ipsa. Utrum eadem fēmina nunc esset annōn quis dīcere posset? Sed liberāta est; potestātibus suīs eī nōtīs, Carolīna discēdit et māchinam expressam sēcum tulit.
 
-[dissere apud Pīpiātōrium](https://twitter.com/Calculensis/status/1558153345470287875?s=20&t=vKyJYyu6jnD4DhGQgm3_ew)
