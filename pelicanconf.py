@@ -42,3 +42,4 @@ PLUGINS = ['render_math']
 THEME = 'cid'
 USE_CUSTOM_MENU = True
 CUSTOM_MENUITEMS = (('dē hōc diāriō','dē hōc diāriō'),)
+THEME = 'Pelican-Cid'
