@@ -1,0 +1,33 @@
+name: Deploy Pelican site to GitHub Pages
+
+on:
+  push:
+    branches: [ source ]
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout source
+      uses: actions/checkout@v3
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+        
+    - name: Install dependencies
+      run: |
+        pip install pelican markdown
+        # Add any other dependencies you need
+        
+    - name: Build site
+      run: pelican content -s pelicanconf.py
+      
+    - name: Deploy to main branch
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./output
+        publish_branch: main
